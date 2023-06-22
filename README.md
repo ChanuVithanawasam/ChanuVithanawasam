@@ -54,14 +54,6 @@ Here are some ideas to get you started:
 ***
 <div align="center">
 
-<h3 align="center">
-  Profile 3D Contributions 🔰
-</h3>
-
-
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
-
----
 
 ## 🔥 Streak Stats
 
