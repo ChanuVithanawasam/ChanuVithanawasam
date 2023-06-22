@@ -1,19 +1,79 @@
-<h1 align="center">Hi 👋, I'm ChAnu VithAnawasam</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka 🇱🇰</h3>
+### Hi there 👋
+
+<!--
+**ChanuVithanawasam/ChanuVithanawasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+ChAnu+VithAnawasam;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+
+<h3 align="center"><b><i>Full Stack Developer from Sri Lanka 🇱🇰</i></b></h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<br>
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuvithanawasam&label=Profile%20views&color=0e75b6&style=flat" alt="chanuvithanawasam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanuvithanawasam" alt="chanuvithanawasam" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=ChanuVithanawasam&label=Profile%20views&color=0e75b6&style=flat" alt="ChanuVithanawasam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chanu vithanawasam" target="blank"><img src="https://img.shields.io/twitter/follow/chanu vithanawasam?logo=twitter&style=for-the-badge" alt="chanu vithanawasam" /></a> </p>
+[![GitHub followers](https://img.shields.io/github/followers/ChanuVithanawasam.svg?style=social&label=followers&maxAge=2592000)](https://github.com/ChanuVithanawasam?tab=followers)
 
-- 📫 How to reach me **chanumadhuprasanna99@gmail.com**
+## 👨‍🦰 About me :
 
+- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
+- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
+- 💻 I am a competitive programmer mainly at `Codeforces`.
+- 👨 Always `learning new things`
+- 👯 I’m looking to collaborate.
+- 🤔 I’m looking for help with Coding.
+- 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
 - ⚡ Fun fact **I think I'm funny😎**
+- 📫 How to reach me **chanumadhuprasanna99@gmail.com**
+  <br>
+<div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#
+</div>
+
+## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
+
+***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
+
+<a href="https://www.buymeacoffee.com/chanumadhuG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+
+***
+<div align="center">
+
+<h3 align="center">
+  Profile 3D Contributions 🔰
+</h3>
+
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+---
+
+## 🔥 Streak Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChanuVithanawasam&theme=monokai)
+<br>
+<br>
+[![](https://github-readme-streak-stats.herokuapp.com?user=ChanuVithanawasam&theme=soft-green)]
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
 <a href="https://twitter.com/chanu vithanawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanu vithanawasam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chanu vithanawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanu vithanawasam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22110345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22110345" height="30" width="40" /></a>
@@ -21,13 +81,74 @@
 <a href="https://instagram.com/chanu vithanawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanu vithanawasam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chanu vithanawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chanu vithanawasam" height="30" width="40" /></a>
 <a href="https://discord.gg/ChAnu_vithAnawasam#3898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ChAnu_vithAnawasam#3898" height="30" width="40" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🛠️ My Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanuvithanawasam&show_icons=true&locale=en&layout=compact" alt="chanuvithanawasam" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=200&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanuvithanawasam&show_icons=true&locale=en" alt="chanuvithanawasam" /></p>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+  <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanuvithanawasam&" alt="chanuvithanawasam" /></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
+
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+
+***My Contributions*** 😥 <br>
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanuVithanawasam&theme=tokyonight" />
+  
+ <p>
+
+<br>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChanuVithanawasam&theme=tokyonight&utcOffset=8" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChanuVithanawasam&theme=tokyonight" />
+  
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+
+***...Contact ME...*** 😥 <br>
+   
+   <p align="center">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
+![Google](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
