@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw10DM81HRmy-5fJjjp5H_xU&ust=1712246331204000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDY-ue0poUDFQAAAAAdAAAAABAo">
 
 
 <img src="https://komarev.com/ghpvc/?username=ChanuVithanawasam&label=Profile%20views&color=0e75b6&style=flat" alt="ChanuVithanawasam" /> </p>
