@@ -1,22 +1,13 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-### Hi there 👋
 
-<!--
-**ChanuVithanawasam/ChanuVithanawasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+ChAnu+VithAnawasam;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+ChAnu+VithAnawasam;Full+Stack+Developer+from+Sri+Lanka;)](https://git.io/typing-svg)
 
-<h3 align="center"><b><i>Full Stack Developer from Sri Lanka 🇱🇰</i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-softgreen" width="600" height="30" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -27,43 +18,55 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ChanuVithanawasam&label=Profile%20views&color=0e75b6&style=flat" alt="ChanuVithanawasam" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/ChanuVithanawasam.svg?style=social&label=followers&maxAge=2592000)](https://github.com/ChanuVithanawasam?tab=followers)
-
 ## 👨‍🦰 About me :
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 💻 I am a competitive programmer mainly at `Codeforces`.
 - 👨 Always `learning new things`
 - 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
 - ⚡ Fun fact **I think I'm funny😎**
 - 📫 How to reach me **chanumadhuprasanna99@gmail.com**
-  <br>
-<div>
 
-#
-</div>
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
 ***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
-
-<a href="https://www.buymeacoffee.com/chanumadhuG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+<p align="center"><a href="https://www.buymeacoffee.com/chanumadhuG"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
 ***
 <div align="center">
 
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ChanuVithanawasam&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanuVithanawasam&theme=soft-green&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-## 🔥 Streak Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChanuVithanawasam&theme=monokai)
-<br>
-<br>
-[![](https://github-readme-streak-stats.herokuapp.com?user=ChanuVithanawasam&theme=soft-green)]
-<br>
-<br>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ChanuVithanawasam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -95,7 +98,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
