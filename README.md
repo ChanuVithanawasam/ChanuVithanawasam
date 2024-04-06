@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/I%20CAN%20DO%20WHATEVER-I%20WANT%20TODAY-softgreen" width="600" height="30" />
+    <img src="https://img.shields.io/badge/First,%20solve%20the%20problem-Then,%20write%20the%20code-softgreen" width="600" height="30" />
   </a>
 </p>
 <p align="center">
